@@ -16,8 +16,6 @@
 - 🏢 I'm currently studying in VNU - HCMUS
 - 💼 Currently working on exciting projects in MLOps and Data Scient.
 - 🌱 Always learning and exploring new technologies.
-- 💬 Ask me about Machine Learning, Computer Vision and Patern Recognition,...
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
