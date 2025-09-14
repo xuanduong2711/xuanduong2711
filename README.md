@@ -31,8 +31,10 @@
   
   <!-- Streaming -->
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apachekafka.svg" alt="kafka" width="40" height="40" style="filter: invert(28%) sepia(91%) saturate(745%) hue-rotate(180deg) brightness(94%) contrast(97%);"/>
+
 </a>
+
 
   
   <!-- Processing & Orchestration -->
