@@ -2,7 +2,7 @@
 
 👨‍💻 A simple guy who loves coding and sharing
 
-🚀 On my way to MLOps Engineering, Data analyst
+🚀 On my way to Data Engineering, Data analyst
 
 
 ## Connect with me:
@@ -30,9 +30,10 @@
   </a>
   
   <!-- Streaming -->
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" alt="kafka" width="40" height="40"/>
-  </a>
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="kafka" width="40" height="40"/>
+</a>
+
   
   <!-- Processing & Orchestration -->
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
