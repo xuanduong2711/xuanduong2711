@@ -14,7 +14,7 @@
 
 - 🌆 Based in Thu Duc district, Ho Chi Minh city.
 - 🏢 I'm currently studying in VNU - HCMUS
-- 💼 Currently working on exciting projects in MLOps and Data Scient.
+<!-- - 💼 Currently working on exciting projects in MLOps and Data Scient. -->
 - 🌱 Always learning and exploring new technologies.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
